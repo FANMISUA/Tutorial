@@ -1,0 +1,7 @@
+> git init Tutorial
+> vim [file]
+> git add [file]
+> git commit -m "add file"
+> git remote add origin https://github.com/user_name/Tutorial.git
+> git push origin master
+
